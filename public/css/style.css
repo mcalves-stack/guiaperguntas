@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eceff1;
+}
+
+a {
+  margin-left: 10px;
+}
+
+.f {
+  margin-top: 2rem;
+  
+}
+
+h1, h3 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: 100px bold;
+}
+
+.container {
+  margin-top: 4.5rem;
+}
+
+.d-flex {
+  margin-right: 10px;
+}
+
+.container h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 2em;
+  color:rgb(37, 7, 7);
+  font-family:Arial, Helvetica, sans-serif;
+  
+}
+
+
+
+.card {
+  margin-bottom: 2rem;
+}
+
+label {
+  margin-bottom: 2px;
+}
+
+
